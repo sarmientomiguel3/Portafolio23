@@ -4,6 +4,6 @@ WORKDIR /app
 COPY package*.json ./
 RUN npm install
 #RUN chown -R node:node /app/node_modules
-EXPOSE 3005
+EXPOSE 80
 
 #CMD ["ng","serve","--host", "0.0.0.0","--port","4200"]

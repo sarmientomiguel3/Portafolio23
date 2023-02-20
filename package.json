@@ -6,7 +6,7 @@
   "description": "Javascript Version",
   "private": true,
   "scripts": {
-    "start": "export PORT=80 && react-scripts start",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "buildgit": "gh-pages -d build",
     "eject": "react-scripts eject",
