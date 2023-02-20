@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portafolio23/static/css/main.66d4fa42.css",
-    "main.js": "/Portafolio23/static/js/main.38a9baf0.js",
+    "main.js": "/Portafolio23/static/js/main.cae195e1.js",
     "static/js/3705.866a70f2.chunk.js": "/Portafolio23/static/js/3705.866a70f2.chunk.js",
     "static/js/6865.d6755db8.chunk.js": "/Portafolio23/static/js/6865.d6755db8.chunk.js",
     "static/js/9014.8e9fd40a.chunk.js": "/Portafolio23/static/js/9014.8e9fd40a.chunk.js",
@@ -210,6 +210,6 @@
   },
   "entrypoints": [
     "static/css/main.66d4fa42.css",
-    "static/js/main.38a9baf0.js"
+    "static/js/main.cae195e1.js"
   ]
 }
