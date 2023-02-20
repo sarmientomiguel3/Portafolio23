@@ -1,0 +1,13 @@
+export { default as HomeHero } from './HomeHero';
+export { default as HomeMinimal } from './HomeMinimal';
+export { default as HomeDarkMode } from './HomeDarkMode';
+export { default as HomeDarkMode2 } from './HomeDarkMode2';
+export { default as HomeLookingFor } from './HomeLookingFor';
+export { default as HomeForDesigner } from './HomeForDesigner';
+export { default as HomeForDesigner2 } from './HomeForDesigner2';
+export { default as HomeColorPresets } from './HomeColorPresets';
+export { default as HomePricingPlans } from './HomePricingPlans';
+export { default as HomeAdvertisement } from './HomeAdvertisement';
+export { default as HomeCleanInterfaces } from './HomeCleanInterfaces';
+export { default as HomeCleanInterfaces2 } from './HomeCleanInterfaces2';
+export { default as HomeHugePackElements } from './HomeHugePackElements';
