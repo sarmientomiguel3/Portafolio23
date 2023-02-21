@@ -94,7 +94,7 @@ function Content() {
           <Image
             disabledEffect
             alt={`clean-${index + 1}`}
-            src={require(`./../../images/fotos/banda.jpg`)}
+            src={require(`./../../images/fotos/musica.jpg`)}
           />
         </Box>
       ))}
