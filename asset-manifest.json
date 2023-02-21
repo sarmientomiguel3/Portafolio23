@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portafolio23/static/css/main.66d4fa42.css",
-    "main.js": "/Portafolio23/static/js/main.cae195e1.js",
+    "main.js": "/Portafolio23/static/js/main.52b31d94.js",
     "static/js/3705.866a70f2.chunk.js": "/Portafolio23/static/js/3705.866a70f2.chunk.js",
     "static/js/6865.d6755db8.chunk.js": "/Portafolio23/static/js/6865.d6755db8.chunk.js",
     "static/js/9014.8e9fd40a.chunk.js": "/Portafolio23/static/js/9014.8e9fd40a.chunk.js",
@@ -42,7 +42,7 @@
     "static/js/2997.1f28e1d6.chunk.js": "/Portafolio23/static/js/2997.1f28e1d6.chunk.js",
     "static/js/2261.c9cc48cf.chunk.js": "/Portafolio23/static/js/2261.c9cc48cf.chunk.js",
     "static/js/4559.7b31a34a.chunk.js": "/Portafolio23/static/js/4559.7b31a34a.chunk.js",
-    "static/js/8492.bfe1c4f2.chunk.js": "/Portafolio23/static/js/8492.bfe1c4f2.chunk.js",
+    "static/js/8492.fb158cbf.chunk.js": "/Portafolio23/static/js/8492.fb158cbf.chunk.js",
     "static/js/8011.d0f55c21.chunk.js": "/Portafolio23/static/js/8011.d0f55c21.chunk.js",
     "static/js/2286.c304e3da.chunk.js": "/Portafolio23/static/js/2286.c304e3da.chunk.js",
     "static/js/4933.9f08233e.chunk.js": "/Portafolio23/static/js/4933.9f08233e.chunk.js",
@@ -163,6 +163,7 @@
     "static/media/smartpaskam3.jpg": "/Portafolio23/static/media/smartpaskam3.ddae9116718f6cbfb42c.jpg",
     "static/media/smartpaskam1.jpg": "/Portafolio23/static/media/smartpaskam1.d33eb0d5239759c3ed93.jpg",
     "static/media/unsa4.jpg": "/Portafolio23/static/media/unsa4.5478683ff640760d7817.jpg",
+    "static/media/musica.jpg": "/Portafolio23/static/media/musica.7a732a8b4e2cef54cf54.jpg",
     "static/media/smartpaskam14.jpg": "/Portafolio23/static/media/smartpaskam14.033f9233051b011912cf.jpg",
     "static/media/inventario.jpg": "/Portafolio23/static/media/inventario.d4c6d7a25bb4d79d99da.jpg",
     "static/media/smartpaskam24.jpg": "/Portafolio23/static/media/smartpaskam24.4b6a79c5133b07617d1c.jpg",
@@ -182,7 +183,6 @@
     "static/media/smartpaskam16.jpg": "/Portafolio23/static/media/smartpaskam16.0e64f81b8b2bf0095ebe.jpg",
     "static/media/smartpaskam20.jpg": "/Portafolio23/static/media/smartpaskam20.77e435db6a1c153cde13.jpg",
     "static/media/unsa2.jpg": "/Portafolio23/static/media/unsa2.981a387b7903b46536ba.jpg",
-    "static/media/banda.jpg": "/Portafolio23/static/media/banda.cfe4aa73b87e0e943a14.jpg",
     "static/media/smartpaskam7.jpg": "/Portafolio23/static/media/smartpaskam7.e9b3dc2bce0f03b0b874.jpg",
     "static/media/smartpaskam2.jpg": "/Portafolio23/static/media/smartpaskam2.23945730e170ec46070b.jpg",
     "static/media/smartpaskam4.jpg": "/Portafolio23/static/media/smartpaskam4.36b6038e99cb548e386d.jpg",
@@ -210,6 +210,6 @@
   },
   "entrypoints": [
     "static/css/main.66d4fa42.css",
-    "static/js/main.cae195e1.js"
+    "static/js/main.52b31d94.js"
   ]
 }
