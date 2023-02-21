@@ -111,7 +111,7 @@ export default function ChatNavAccount() {
 
           <MenuItem>
             <Iconify icon="eva:settings-2-fill" />
-            Settings
+            Settingsl
           </MenuItem>
         </List>
       </MenuPopover>
